@@ -1,4 +1,4 @@
-# graph-embedding
+# Graph Embedding
 
 Graph embedding is the construction of vector representations of graphs to perform tasks such as classification or clustering.
 This repo contains experiments in constructing new graph embeddings,
