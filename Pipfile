@@ -7,6 +7,14 @@ name = "pypi"
 cairocffi = "*"
 igraph = "*"
 jupyter = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+scikit-learn = "*"
+tqdm = "*"
+networkx = "*"
+grakel = "*"
 
 [dev-packages]
 
